@@ -21,7 +21,21 @@ Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi
 <h2 align="center"> II PARTE </h2>
 
 ## Consegna
-Dopo aver creato un nuovo database nel vostro MySQL Workbench e aver importato lo schema allegato, eseguite le query del file allegato.
+Dopo aver creato un nuovo database nel vostro MySQL Workbench e aver importato lo schema allegato, eseguite le query del file allegato (Query con SELECT e GROUP BY).
 
 ## Cosa consegnare?
 Dopo aver testato le vostre query con MySQL Workbench, riportatele in un file txt e caricatelo nella vostra repo.
+
+<br>
+<br>
+<br>
+
+<h2 align="center"> III PARTE </h2>
+
+## Consegna
+Utilizzando la stessa repo e lo stesso database di ieri, eseguite le query in allegato (Query con JOIN).
+
+## Cosa consegnare?
+Caricate un secondo file nella stessa repo di ieri (db-university) con le query di oggi.
+
+
