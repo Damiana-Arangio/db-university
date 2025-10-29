@@ -38,4 +38,12 @@ Utilizzando la stessa repo e lo stesso database di ieri, eseguite le query in al
 ## Cosa consegnare?
 Caricate un secondo file nella stessa repo di ieri (db-university) con le query di oggi.
 
+<br>
+<br>
+<br>
+
+## Tecnologie utilizzate
+- MySQL  
+- MySQL Workbench  
+- Draw.io
 
